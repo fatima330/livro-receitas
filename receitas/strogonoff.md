@@ -2,7 +2,10 @@
 
 ## ingredientes
 
+<<<<<<< HEAD
 - 3 [peitos ](https://www.tudogostoso.com.br/receita/10254-fricasse-de-frango.html) cortados em cubos
+=======
+- 3 [peitos de frango](https://www.tudogostoso.com.br/receita/10254-fricasse-de-frango.html) cortados em cubos
 
 - 1 dente de alho picado
 
